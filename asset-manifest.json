@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brayan5120/nada.git/static/css/main.03b13a8d.css",
+    "main.js": "/brayan5120/nada.git/static/js/main.a0cdc758.js",
+    "index.html": "/brayan5120/nada.git/index.html",
+    "main.03b13a8d.css.map": "/brayan5120/nada.git/static/css/main.03b13a8d.css.map",
+    "main.a0cdc758.js.map": "/brayan5120/nada.git/static/js/main.a0cdc758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03b13a8d.css",
+    "static/js/main.a0cdc758.js"
+  ]
+}
