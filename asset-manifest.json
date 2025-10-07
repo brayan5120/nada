@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nada/static/css/main.03b13a8d.css",
+    "main.js": "/nada/static/js/main.a0cdc758.js",
+    "index.html": "/nada/index.html",
+    "main.03b13a8d.css.map": "/nada/static/css/main.03b13a8d.css.map",
+    "main.a0cdc758.js.map": "/nada/static/js/main.a0cdc758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03b13a8d.css",
+    "static/js/main.a0cdc758.js"
+  ]
+}
